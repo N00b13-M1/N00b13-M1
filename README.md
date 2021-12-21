@@ -2,7 +2,7 @@
 - 👀 I’m interested in InfoSec, IoT & start-ups.
 - 🌱 I’m currently learning Pentesting, Python & CCNA
 - 💞️ I’m looking to collaborate on IoT, for a Software as a Service start-up
-- 📫 Reach me on Twitter @Fridgevalet
+
 
 <!---
 N00b13-M1/N00b13-M1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
